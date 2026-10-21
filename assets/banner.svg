@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#060B16"/>
+    <stop offset="55%" stop-color="#0A1730"/>
+    <stop offset="100%" stop-color="#11102B"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#38BDF8"/>
+    <stop offset="55%" stop-color="#6366F1"/>
+    <stop offset="100%" stop-color="#A78BFA"/>
+  </linearGradient>
+  <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+    <path d="M 34 0 L 0 0 0 34" fill="none" stroke="#27466C" stroke-width="0.7" opacity="0.42"/>
+  </pattern>
+  <filter id="glow"><feGaussianBlur stdDeviation="8"/></filter>
+</defs>
+<rect width="1200" height="330" rx="22" fill="url(#bg)"/>
+<rect width="1200" height="330" rx="22" fill="url(#grid)"/>
+<circle cx="965" cy="90" r="130" fill="#2563EB" opacity="0.15" filter="url(#glow)"/>
+<circle cx="1080" cy="265" r="105" fill="#7C3AED" opacity="0.17" filter="url(#glow)"/>
+<rect x="32" y="35" width="5" height="72" rx="2.5" fill="url(#accent)"/>
+<text x="64" y="95" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="48" font-weight="750">Hey, I'm Rohith 👋</text>
+<text x="66" y="145" fill="#38BDF8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="650">A school student learning web development</text>
+<text x="66" y="187" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20">Exploring, building, and improving step by step.</text>
+<text x="66" y="231" fill="#94A3B8" font-family="JetBrains Mono,Consolas,monospace" font-size="16">LEARN  /  BUILD  /  IMPROVE  /  REPEAT</text>
+<rect x="66" y="260" width="210" height="4" rx="2" fill="url(#accent)"/>
+<g transform="translate(755,64)">
+  <rect x="0" y="0" width="355" height="190" rx="14" fill="#08111F" stroke="#31547D" stroke-width="2"/>
+  <rect x="14" y="14" width="327" height="160" rx="7" fill="#0B1424"/>
+  <circle cx="29" cy="28" r="4" fill="#F87171"/><circle cx="43" cy="28" r="4" fill="#FBBF24"/><circle cx="57" cy="28" r="4" fill="#34D399"/>
+  <g font-family="JetBrains Mono,Consolas,monospace" font-size="12">
+    <text x="30" y="55" fill="#A78BFA">const</text><text x="68" y="55" fill="#7DD3FC"> learningJourney</text><text x="182" y="55" fill="#E2E8F0"> = {</text>
+    <text x="42" y="78" fill="#86EFAC">"mindset"</text><text x="112" y="78" fill="#E2E8F0">: </text><text x="124" y="78" fill="#FDE68A">"curious"</text><text x="184" y="78" fill="#E2E8F0">,</text>
+    <text x="42" y="101" fill="#86EFAC">"learning"</text><text x="112" y="101" fill="#E2E8F0">: </text><text x="124" y="101" fill="#FDE68A">"web dev"</text><text x="184" y="101" fill="#E2E8F0">,</text>
+    <text x="42" y="124" fill="#86EFAC">"progress"</text><text x="112" y="124" fill="#E2E8F0">: </text><text x="124" y="124" fill="#FDE68A">"every day"</text>
+    <text x="30" y="147" fill="#E2E8F0">};</text>
+    <text x="30" y="164" fill="#38BDF8">// building one project at a time</text>
+  </g>
+  <path d="M-16 196 L371 196 L345 214 L12 214 Z" fill="#1B3150" stroke="#31547D" stroke-width="1.5"/>
+  <path d="M135 199 L220 199 L209 207 L146 207 Z" fill="#42658C"/>
+</g>
+<rect x="1" y="1" width="1198" height="328" rx="21" fill="none" stroke="#2563EB" stroke-opacity="0.65" stroke-width="2"/>
+</svg>
