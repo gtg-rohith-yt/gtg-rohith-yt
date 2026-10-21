@@ -1,16 +1,75 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**gtg-rohith-yt/gtg-rohith-yt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Rohith 👋
 
-Here are some ideas to get you started:
+### School Student | Learning Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Exploring technology, building projects, and improving one step at a time.
+
+[GitHub](https://github.com/YOUR_USERNAME) · [My Projects](https://github.com/YOUR_USERNAME?tab=repositories)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a school student passionate about technology and web development. I enjoy exploring new tools, experimenting with code, and turning ideas into small projects as I learn.
+
+- 🎓 School student from Tamil Nadu, India
+- 🌐 Learning frontend and modern web development
+- 🛠️ Practising by building personal projects
+- 📚 Improving my programming and problem-solving skills
+- 🚀 Working towards creating more useful web applications
+
+## 📚 What I'm Learning
+
+- HTML, CSS, and JavaScript
+- Responsive web design and UI/UX
+- React and modern frontend tools
+- Git, GitHub, and version control
+- Backend development, APIs, and databases
+
+## 🧰 Technologies
+
+<!-- Keep only technologies you have used or are currently learning. -->
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" alt="HTML, CSS, JavaScript, Git, GitHub, and VS Code" />
+</p>
+
+## 🚀 Projects I'm Building
+
+<!-- Replace these examples with your actual projects. -->
+
+### 🌐 Web Development Projects
+
+Small websites and experiments created while learning frontend development.
+
+[Explore my repositories](https://github.com/YOUR_USERNAME?tab=repositories)
+
+### 💻 Personal Projects
+
+Practical ideas that help me learn new technologies and improve my coding skills.
+
+[View my projects](https://github.com/YOUR_USERNAME?tab=repositories)
+
+## 🎯 My Goals
+
+- Build more complete, responsive websites
+- Strengthen my JavaScript fundamentals
+- Learn React and backend development
+- Improve code quality and project documentation
+- Explore open-source contributions
+
+## 🤝 Connect
+
+- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+
+---
+
+<div align="center">
+
+**A student today. A better developer tomorrow. 🌱**
+
+</div>
