@@ -2,74 +2,152 @@
 
 # Hey, I'm Rohith 👋
 
-### School Student | Learning Web Development
+### A School Student Learning Web Development
 
-Exploring technology, building projects, and improving one step at a time.
+*Exploring, building, and improving one project at a time.*
 
-[GitHub](https://github.com/gtg-rohith-yt) · [My Projects](https://github.com/gtg-rohith-yt?tab=repositories)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-161B22?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+[![Learning](https://img.shields.io/badge/Status-Always_Learning-1688F0?style=for-the-badge)](https://github.com/YOUR_USERNAME?tab=repositories)
 
 </div>
 
 ---
 
+<table>
+<tr>
+<td width="55%" valign="top">
+
 ## 👨‍💻 About Me
 
-I'm a school student passionate about technology and web development. I enjoy exploring new tools, experimenting with code, and turning ideas into small projects as I learn.
+I'm a school student passionate about technology and web development. I enjoy experimenting with code, learning new tools, and turning ideas into small projects.
 
 - 🎓 School student from Tamil Nadu, India
-- 🌐 Learning frontend and modern web development
-- 🛠️ Practising by building personal projects
-- 📚 Improving my programming and problem-solving skills
-- 🚀 Working towards creating more useful web applications
+- 🌐 Learning modern web development
+- 💡 Exploring creative ideas through code
+- 🚀 Building projects as I learn
+
+> *A student today, a better developer tomorrow.*
+
+</td>
+<td width="45%" valign="top">
 
 ## 📚 What I'm Learning
 
-- HTML, CSS, and JavaScript
-- Responsive web design and UI/UX
-- React and modern frontend tools
-- Git, GitHub, and version control
-- Backend development, APIs, and databases
+- 🌐 HTML, CSS & JavaScript
+- 🎨 Responsive web design
+- ⚛️ React and frontend tools
+- 🔧 Git & GitHub
+- 🗄️ Backend basics and APIs
+- ✨ UI/UX and accessibility
+
+</td>
+</tr>
+</table>
 
 ## 🧰 Technologies
 
-<!-- Keep only technologies you have used or are currently learning. -->
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" alt="HTML, CSS, JavaScript, Git, GitHub, and VS Code" />
-</p>
+<!-- Remove technologies you haven't used or started learning. -->
 
-## 🚀 Projects I'm Building
+<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode&theme=dark" alt="Web development technologies" />
 
-<!-- Replace these examples with your actual projects. -->
-
-### 🌐 Web Development Projects
-
-Small websites and experiments created while learning frontend development.
-
-[Explore my repositories](https://github.com/gtg-rohith-yt?tab=repositories)
-
-### 💻 Personal Projects
-
-Practical ideas that help me learn new technologies and improve my coding skills.
-
-[View my projects](https://github.com/gtg-rohith-yt?tab=repositories)
-
-## 🎯 My Goals
-
-- Build more complete, responsive websites
-- Strengthen my JavaScript fundamentals
-- Learn React and backend development
-- Improve code quality and project documentation
-- Explore open-source contributions
-
-## 🤝 Connect
-
-- GitHub: [@gtg-rohith-yt](https://github.com/gtg-rohith-yt)
+</div>
 
 ---
 
+## 🚀 Projects & Experiments
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Website Projects
+
+Building responsive websites while practising HTML, CSS, and JavaScript.
+
+**Focus:** Layout · Responsiveness · UI
+
+[Explore my repositories →](https://github.com/YOUR_USERNAME?tab=repositories)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Coding Experiments
+
+Trying new tools, testing ideas, and learning through small applications.
+
+**Focus:** Practice · Problem-solving · Growth
+
+[Explore my repositories →](https://github.com/YOUR_USERNAME?tab=repositories)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛍️ E-commerce Practice
+
+Experimenting with storefront layouts and product interfaces.
+
+**Focus:** Product UI · Navigation · Design
+
+[Explore my repositories →](https://github.com/YOUR_USERNAME?tab=repositories)
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 Personal Portfolio
+
+Working towards a portfolio that showcases my learning journey and projects.
+
+**Focus:** Personal branding · Web design
+
+[Explore my repositories →](https://github.com/YOUR_USERNAME?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+## 🎯 My Goals
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+- [ ] Build more complete websites
+- [ ] Improve JavaScript fundamentals
+- [ ] Learn React in depth
+- [ ] Create a personal portfolio
+
+</td>
+<td width="50%" valign="top">
+
+- [ ] Explore backend development
+- [ ] Learn database integration
+- [ ] Improve code quality
+- [ ] Try contributing to open source
+
+</td>
+</tr>
+</table>
+
+## 📈 GitHub Overview
+
 <div align="center">
 
-**A student today. A better developer tomorrow. 🌱**
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=github_dark" alt="Repository language statistics" />
+
+</div>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+
+*Learning every day. Building at my own pace. 🌱*
 
 </div>
