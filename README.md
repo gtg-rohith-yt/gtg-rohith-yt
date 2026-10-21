@@ -1,21 +1,19 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/275069035?v=4" width="110" alt="Rohith's avatar" />
+<img src="assets/banner.svg" width="100%" alt="Rohith — Student learning web development" />
 
-# Hey, I'm Rohith 👋
+<br/>
 
-### 🎓 School Student | Learning Web Development
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=550&lines=Learning+HTML%2C+CSS+%26+JavaScript;Exploring+Modern+Web+Development;Building+Projects+While+Learning;Learn.+Build.+Improve.+Repeat." alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=School+Student+%7C+Learning+Web+Development;Exploring+%26+Building+Web+Projects;Learn.+Build.+Improve.+Repeat." alt="Animated introduction" />
 
 <p>
-  <img src="https://img.shields.io/badge/STATUS-LEARNING-0EA5E9?style=for-the-badge" alt="Learning" />
-  <img src="https://img.shields.io/badge/FOCUS-WEB_DEVELOPMENT-8B5CF6?style=for-the-badge" alt="Web development" />
+  <a href="https://github.com/gtg-rohith-yt?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_PROJECTS-1677FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
+  <a href="https://github.com/gtg-rohith-yt"><img src="https://img.shields.io/badge/FOLLOW_MY_JOURNEY-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Follow my journey" /></a>
 </p>
 
-<a href="https://github.com/gtg-rohith-yt?tab=repositories">
-  <img src="https://img.shields.io/badge/🚀_EXPLORE_MY_PROJECTS-2563EB?style=for-the-badge" alt="Explore my projects" />
-</a>
+<img src="https://img.shields.io/badge/STATUS-LEARNING-0EA5E9?style=flat-square" alt="Learning" />
+<img src="https://img.shields.io/badge/FOCUS-WEB_DEVELOPMENT-8B5CF6?style=flat-square" alt="Web development" />
+<img src="https://img.shields.io/badge/MINDSET-CURIOUS-10B981?style=flat-square" alt="Curious" />
 
 </div>
 
@@ -23,56 +21,147 @@
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="54%" valign="top">
 
-## 💫 About Me
+## 👋 About Me
 
-Hey! I'm Rohith, a school student passionate about technology and web development.
+Hey! I'm **Rohith**, a school student from India learning web development.
 
-- 🎓 Student and lifelong learner
-- 🌐 Exploring how websites are built
-- 💻 Practising by creating personal projects
-- 🎨 Interested in modern UI and responsive design
-- 🚀 Improving my skills one project at a time
+I enjoy exploring how websites work, experimenting with new tools, and turning ideas into small projects as I learn.
+
+- 🎓 School student and technology enthusiast
+- 🌐 Learning web development step by step
+- 🧩 Practising through personal projects
+- 📈 Focused on steady progress, not shortcuts
+
+> 💬 *A student today, a better developer tomorrow.*
 
 </td>
-<td width="45%" valign="top">
+<td width="46%" valign="top">
 
-## 🎯 Currently Exploring
+## 📚 What I'm Learning
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/HTML-Currently_learning-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/CSS-Currently_learning-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/JavaScript-Practising-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
 
-<img src="https://img.shields.io/badge/Git- F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/Git_%26_GitHub-Exploring-181717?style=flat-square&logo=github&logoColor=white" alt="Git and GitHub" />
+
+<img src="https://img.shields.io/badge/Responsive_UI-Exploring-8B5CF6?style=flat-square" alt="Responsive UI" />
 
 </td>
 </tr>
 </table>
 
-## 🧰 Technologies & Tools
+## 🧰 My Learning Toolkit
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" alt="HTML CSS JavaScript Git GitHub VS Code" />
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" alt="HTML, CSS, JavaScript, Git, GitHub and VS Code" />
 
 </div>
 
-## 🚀 My Projects
+---
 
-I'm using personal projects to practise what I learn and explore new ideas.
+## 🚀 Projects & Experiments
 
 <div align="center">
+
+<p><i>These cards are project slots. Replace the examples below with your real repositories and screenshots.</i></p>
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 <a href="https://github.com/gtg-rohith-yt?tab=repositories">
-  <img src="https://img.shields.io/badge/💻_VIEW_ALL_REPOSITORIES-161B22?style=for-the-badge&logo=github" alt="View all repositories" />
+<img src="assets/project-website.svg" width="100%" alt="Website project placeholder" />
 </a>
 
-</div>
+### 🌐 Website Project
 
-<!-- Add screenshots and links for your real projects here. -->
+A responsive website built while practising web development fundamentals.
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
+
+[**Explore repositories →**](https://github.com/gtg-rohith-yt?tab=repositories)
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/gtg-rohith-yt?tab=repositories">
+<img src="assets/project-ui.svg" width="100%" alt="UI design project placeholder" />
+</a>
+
+### 🎨 UI / Frontend Experiment
+
+An experiment with layouts, colours, and responsive interface design.
+
+<img src="https://img.shields.io/badge/Design-8B5CF6?style=flat-square" alt="Design" />
+<img src="https://img.shields.io/badge/Frontend-0EA5E9?style=flat-square" alt="Frontend" />
+
+[**Explore repositories →**](https://github.com/gtg-rohith-yt?tab=repositories)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/gtg-rohith-yt?tab=repositories">
+<img src="assets/project-learning.svg" width="100%" alt="Coding practice placeholder" />
+</a>
+
+### ⚡ Coding Practice
+
+Small coding exercises and experiments to improve programming fundamentals.
+
+<img src="https://img.shields.io/badge/Practice-10B981?style=flat-square" alt="Practice" />
+
+[**Explore repositories →**](https://github.com/gtg-rohith-yt?tab=repositories)
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/gtg-rohith-yt?tab=repositories">
+<img src="assets/project-portfolio.svg" width="100%" alt="Portfolio project placeholder" />
+</a>
+
+### 💻 Personal Portfolio
+
+A portfolio in progress to present my learning journey and projects.
+
+<img src="https://img.shields.io/badge/Building-8B5CF6?style=flat-square" alt="Building" />
+
+[**Explore repositories →**](https://github.com/gtg-rohith-yt?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+## 🎯 Goals
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+- 🔹 Build more complete websites
+- 🔹 Improve JavaScript fundamentals
+- 🔹 Learn responsive design patterns
+
+</td>
+<td width="50%" valign="top">
+
+- 🔹 Explore React when ready
+- 🔹 Learn how APIs work
+- 🔹 Share projects and keep improving
+
+</td>
+</tr>
+</table>
 
 ## 📊 GitHub Overview
 
@@ -84,14 +173,13 @@ I'm using personal projects to practise what I learn and explore new ideas.
 
 </div>
 
-## 🌱 My Goals
+<div align="center">
 
-<table>
-<tr><td>🔹</td><td>Build responsive websites</td></tr>
-<tr><td>🔹</td><td>Improve my programming fundamentals</td></tr>
-<tr><td>🔹</td><td>Explore modern frontend technologies</td></tr>
-<tr><td>🔹</td><td>Create useful projects and document my progress</td></tr>
-</table>
+<a href="https://github.com/gtg-rohith-yt?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-161B22?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" />
+</a>
+
+</div>
 
 ---
 
@@ -103,6 +191,6 @@ I'm using personal projects to practise what I learn and explore new ideas.
 
 ### ✨ A student today, a better developer tomorrow.
 
-<sub>Thanks for visiting my profile! 💙</sub>
+<sub>Made with curiosity by Rohith 💙</sub>
 
 </div>
