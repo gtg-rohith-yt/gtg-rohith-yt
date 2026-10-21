@@ -6,7 +6,7 @@
 
 Exploring technology, building projects, and improving one step at a time.
 
-[GitHub](https://github.com/YOUR_USERNAME) · [My Projects](https://github.com/YOUR_USERNAME?tab=repositories)
+[GitHub](https://github.com/gtg-rohith-yt) · [My Projects](https://github.com/gtg-rohith-yt?tab=repositories)
 
 </div>
 
@@ -46,13 +46,13 @@ I'm a school student passionate about technology and web development. I enjoy ex
 
 Small websites and experiments created while learning frontend development.
 
-[Explore my repositories](https://github.com/YOUR_USERNAME?tab=repositories)
+[Explore my repositories](https://github.com/gtg-rohith-yt?tab=repositories)
 
 ### 💻 Personal Projects
 
 Practical ideas that help me learn new technologies and improve my coding skills.
 
-[View my projects](https://github.com/YOUR_USERNAME?tab=repositories)
+[View my projects](https://github.com/gtg-rohith-yt?tab=repositories)
 
 ## 🎯 My Goals
 
@@ -64,7 +64,7 @@ Practical ideas that help me learn new technologies and improve my coding skills
 
 ## 🤝 Connect
 
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub: [@gtg-rohith-yt](https://github.com/gtg-rohith-yt)
 
 ---
 
